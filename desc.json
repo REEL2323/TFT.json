@@ -1,0 +1,112 @@
+{
+  "English": {
+    "B.F. Sword": "+20 Attack Damage",
+    "Needlessly Large Rod": "+20% Spell Damage",
+    "Recurve Bow": "+15% Attack Speed",
+    "Chain Vest": "+20 Armor",
+    "Giant's Belt": "+200 Health",
+    "Negatron Cloak": "+20 Magic Resist",
+    "Spatula": "It must do something...",
+    "Tear of the Goddess": "+20 Starting Mana.",
+
+    "Infinity Edge": "Critical Strikes deal +100% damage.",
+    "Hextech Gunblade": "Heal for 25% of all damage dealt.",
+    "Guardian Angel": "Revives champ with 500 HP",
+    "Spear of Shojin": "After casting. gain 15% of max mana per attack.",
+    "Sword of the Divine": "Every 1s gain a 5% chance to gain 100% Critical Strike.",
+    "Youmuu's Ghostblade": "Wearer is also an Assassin.",
+    "The Bloodthirster": "Attacks heal for 50% of damage.",
+    "Zeke's Herald": "Adjacent allies gain 10% Attack Speed.",
+
+    "Guinsoo's Rageblade": "Attacks give 3% Attack Speed. Stacks infinitely.",
+    "Rabadon's Deathcap": "Wearer's Abillity Damage increased by 50%.",
+    "Yuumi": "Wearer is also a Sorcerer.",
+    "Morellonomicon": "Spells burn 2.5% of the enemy max HP per second.",
+    "Ionic Spark": "Whenever an enemy casts a spell they take 200 damage.",
+    "Locket of the Iron Solari": "On start of combat, adjacent allies get 200 shield.",
+    "Luden's Echo": "Deal 200 splash damage on abillity hit.",
+
+    "Statikk Shiv": "Every 3rd attack deals 100 splash magical damage.",
+    "Cursed Blade": "Attacks have a low chance to gain 100% Critical Strike.",
+    "Rapid Firecannon": "Attacks cannot be dodged. Attack Range is doubled.",
+    "Phantom Dancer": "Wearer dodges all Critical Strikes.",
+    "Titanic Hydra": "Attacks deal 10% of the wearer's max HP as splash.",
+    "Blade of the Ruined King": "Wearer is also a Blademaster",
+
+    "Thornmail": "Reflect 30% of damage taken from attacks.",
+    "Frozen Heart": "Adjacent enemies lose 20% Attack Speed.",
+    "Sword Breaker": "Attacks have a chance to disarm.",
+    "Red Buff": "Attacks burn for 2.5% max HP and disable healing.",
+    "Knight's Vow": "Wearer is also a Knight.",
+
+    "Zeke's Herald": "Adjacent allies gain +10% Attack Speed.",
+    "Redemption": "On death heal all nearby allies for 1000 HP.",
+    "Zephyr": "On start of combat banish an enemy.",
+    "Warmog's Armor": "Regenerate 3% max Health per second.",
+    "Frozen Mallet": "Wearer is also a Glacial.",
+
+    "Hush": "Attacks have a high chance to Silence.",
+    "Runaan's Hurricane": "Attacks hit additional enemies and deal 50% damage.",
+    "Dragon's Claw": "80% resistance to magic damage.",
+
+    "Force of Nature": "Gain +1 team size",
+    "Darkin": "Wearer is also Demon.",
+
+    "Seraph's Embrace": "Regain 20 mana each time a spell is cast"
+  },
+  "Japanese": {
+    "B.F. Sword": "20攻撃ダメージ追加",
+    "Needlessly Large Rod": "20%魔力追加",
+    "Recurve Bow": "15%攻撃速度",
+    "Chain Vest": "20防御追加",
+    "Giant's Belt": "200HP追加",
+    "Negatron Cloak": "20魔法防御",
+    "Spatula": "どんな効果があるんだろうか...",
+    "Tear of the Goddess": "20マナ追加",
+
+    "Infinity Edge": "100% クリティカルダメージ追加",
+    "Hextech Gunblade": "与えたダメージの25%を回復",
+    "Guardian Angel": "500HPで復活する",
+    "Spear of Shojin": "スキル使用後、攻撃毎に最大マナの15%を得る",
+    "Sword of the Divine": "毎秒5%の確率でクリティカル攻撃を出す",
+    "Youmuu's Ghostblade": "装備者にアサシンが追加される",
+    "The Bloodthirster": "50%のライフスティール",
+    "Zeke's Herald": "周りにいる味方の攻撃速度が上昇する",
+
+    "Guinsoo's Rageblade": "通常攻撃する度に攻撃速度が3%上昇する。この効果に限りはない。",
+    "Rabadon's Deathcap": "魔力が50%増える",
+    "Yuumi": "装備者にソーサラーが追加される",
+    "Morellonomicon": "魔法攻撃を与えると毎秒敵の最大HPの2.5％を燃やします。",
+    "Ionic Spark": "敵が魔法攻撃を行う度に、200のダメージを返す。",
+    "Locket of the Iron Solari": "戦闘開始時、周りにいる味方に200のシールドを与える。",
+    "Luden's Echo": "魔法攻撃を行うと200の拡散ダメージを追加で与える。",
+
+    "Statikk Shiv": "3度目の攻撃の度に100の範囲魔法ダメージを与える。",
+    "Cursed Blade": "通常攻撃時、一定確率で相手のレベルを一つ下げる",
+    "Rapid Firecannon": "射程距離が倍になり、その攻撃は回避できなくなる。",
+    "Phantom Dancer": "あらゆるクリティカルダメージを回避できる。",
+    "Titanic Hydra": "装備者の最大HPに応じた割合ダメージの範囲攻撃を与える。",
+    "Blade of the Ruined King": "装備者にブレードマスターが追加される。",
+
+    "Thornmail": "受けたダメージの30%を返す。",
+    "Frozen Heart": "周りにいる敵の攻撃速度を20%下げる。",
+    "Sword Breaker": "攻撃時に一定確率で敵を武装解除状態にする。",
+    "Red Buff": "攻撃に2.5%の火傷ダメージを付与し、回復を阻害できる。",
+    "Knight's Vow": "装備者にナイトが追加される。",
+
+    "Zeke's Herald": "周りにいる味方の攻撃速度が10%上昇する。",
+    "Redemption": "死亡した際、周りにいる味方のHPを1000回復できる。",
+    "Zephyr": "戦闘開始時、5秒間敵を追放できる。",
+    "Warmog's Armor": "毎秒最大HPの3%を回復。",
+    "Frozen Mallet": "装備者にグレイシャルが追加される。",
+
+    "Hush": "攻撃と共に高確率でサイレンスを与える",
+    "Runaan's Hurricane": "攻撃が2体の敵を追加で対象するようになる。追加の対象には元の50%のダメージを与える。",
+    "Dragon's Claw": "80%魔法防御を追加。",
+
+    "Force of Nature": "チーム枠が1つ増える",
+    "Darkin": "装備者にデーモンが追加される",
+
+    "Seraph's Embrace": "スキルを使用する毎に20マナを回復"
+  }
+}

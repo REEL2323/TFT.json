@@ -1,0 +1,156 @@
+{
+  "English": {
+    "B.F. Sword": {
+      "B.F. Sword": "Infinity Edge",
+      "Recurve Bow": "Sword of the Divine",
+      "Needlessly Large Rod": "Hextech Gunblade",
+      "Tear of the Goddess": "Spear of Shojin",
+      "Chain Vest": "Guardian Angel",
+      "Negatron Cloak": "The Bloodthirster",
+      "Giant's Belt": "Zeke's Herald",
+      "Spatula": "Youmuu's Ghostblade"
+    },
+    "Needlessly Large Rod": {
+      "B.F. Sword": "Hextech Gunblade",
+      "Recurve Bow": "Guinsoo's Rageblade",
+      "Needlessly Large Rod": "Rabadon's Deathcap",
+      "Tear of the Goddess": "Luden's Echo",
+      "Chain Vest": "Locket of the Iron Solari",
+      "Negatron Cloak": "Ionic Spark",
+      "Giant's Belt": "Morellonomicon",
+      "Spatula": "Yuumi"
+    },
+    "Recurve Bow": {
+      "B.F. Sword": "Sword of the Divine",
+      "Recurve Bow": "Rapid Firecannon",
+      "Needlessly Large Rod": "Guinsoo's Rageblade",
+      "Tear of the Goddess": "Statikk Shiv",
+      "Chain Vest": "Phantom Dancer",
+      "Negatron Cloak": "Cursed Blade",
+      "Giant's Belt": "Titanic Hydra",
+      "Spatula": "Blade of the Ruined King"
+    },
+    "Chain Vest": {
+      "B.F. Sword": "Guardian Angel",
+      "Recurve Bow": "Phantom Dancer",
+      "Needlessly Large Rod": "Locket of the Iron Solari",
+      "Tear of the Goddess": "Frozen Heart",
+      "Chain Vest": "Thornmail",
+      "Negatron Cloak": "Sword Breaker",
+      "Giant's Belt": "Red Buff",
+      "Spatula": "Knight's Vow"
+    },
+    "Giant's Belt": {
+      "B.F. Sword": "Zeke's Herald",
+      "Recurve Bow": "Titanic Hydra",
+      "Needlessly Large Rod": "Morellonomicon",
+      "Tear of the Goddess": "Redemption",
+      "Chain Vest": "Red Buff",
+      "Negatron Cloak": "Zephyr",
+      "Giant's Belt": "Warmog's Armor",
+      "Spatula": "Frozen Mallet"
+    },
+    "Negatron Cloak": {
+      "B.F. Sword": "The Bloodthirster",
+      "Recurve Bow": "Cursed Blade",
+      "Needlessly Large Rod": "Ionic Spark",
+      "Tear of the Goddess": "Hush",
+      "Chain Vest": "Sword Breaker",
+      "Negatron Cloak": "Dragon's Claw",
+      "Giant's Belt": "Zephyr",
+      "Spatula": "Runaan's Hurricane"
+    },
+    "Spatula": {
+      "B.F. Sword": "Youmuu's Ghostblade",
+      "Recurve Bow": "Blade of the Ruined King",
+      "Needlessly Large Rod": "Yuumi",
+      "Tear of the Goddess": "Darkin",
+      "Chain Vest": "Knight's Vow",
+      "Negatron Cloak": "Runaan's Hurricane",
+      "Giant's Belt": "Frozen Mallet",
+      "Spatula": "Force of Nature"
+    },
+    "Tear of the Goddess": {
+      "B.F. Sword": "Spear of Shojin",
+      "Recurve Bow": "Statikk Shiv",
+      "Needlessly Large Rod": "Luden's Echo",
+      "Tear of the Goddess": "Seraph's Embrace",
+      "Chain Vest": "Frozen Heart",
+      "Giant's Belt": "Redemption",
+      "Negatron Cloak": "Hush",
+      "Spatula": "Darkin"
+    }
+  },
+  "Japanese": {
+    "B.F. ソード": {
+      "B.F. ソード": "インフィニティ・エッジ",
+      "リカーブボウ": "エクスキューショナー・コーリング",
+      "ムダニデカイロッド": "ヘクステック・ガンブレード",
+      "女神の涙": "ショウジンの矛",
+      "チェインベスト": "ガーディアンエンジェル",
+      "ネガトロンクローク": "ブラッドサースター",
+      "ジャイアントベルト": "ジークの使人",
+      "へら": "妖夢の霊剣"
+    },
+    "ムダニデカイロッド": {
+      "B.F. ソード": "ヘクステック・ガンブレード",
+      "リカーブボウ": "グインソー・レイジブレード",
+      "ムダニデカイロッド": "ラバドン・デスキャップ",
+      "女神の涙": "ルーデンエコー",
+      "チェインベスト": "ソラリのロケット",
+      "ネガトロンクローク": "アイオニックスパーク",
+      "ジャイアントベルト": "モレロノミコン",
+      "へら": "ユーミ"
+    },
+    "リカーブボウ": {
+      "B.F. ソード": "天帝の剣",
+      "リカーブボウ": "ラピッドファイアキャノン",
+      "ムダニデカイロッド": "グインソー・レイジブレード",
+      "女神の涙": "スタティック・シヴ",
+      "チェインベスト": "ファントムダンサー",
+      "ネガトロンクローク": "呪いの刃",
+      "ジャイアントベルト": "タイタン・ハイドラ",
+      "へら": "ルインドキング・ブレード"
+    },
+    "ジャイアントベルト": {
+      "B.F. ソード": "ジークの使人",
+      "リカーブボウ": "タイタン・ハイドラ",
+      "ムダニデカイロッド": "モレロノミコン",
+      "女神の涙": "リデンプション",
+      "チェインベスト": "レッドバフ",
+      "ネガトロンクローク": "ゼファー",
+      "ジャイアントベルト": "ワーモグアーマー",
+      "へら": "フローズンマレット"
+    },
+    "ネガトロンクローク": {
+      "B.F. ソード": "ブラッドサースター",
+      "リカーブボウ": "呪いの刃",
+      "ムダニデカイロッド": "アイオニックスパーク",
+      "女神の涙": "静寂",
+      "チェインベスト": "ソードブレイカー",
+      "ネガトロンクローク": "ドラゴンクロウ",
+      "ジャイアントベルト": "ゼファー",
+      "へら": "ルナーン・ハリケーン"
+    },
+    "へら": {
+      "B.F. ソード": "妖夢の霊験",
+      "リカーブボウ": "ルインドキング・ブレード",
+      "ムダニデカイロッド": "ユーミ",
+      "女神の涙": "ダーキン",
+      "チェインベスト": "騎士の誓い",
+      "ネガトロンクローク": "ルナーン・ハリケーン",
+      "ジャイアントベルト": "フローズンマレット",
+      "へら": "自然の力"
+    },
+    "女神の涙": {
+      "B.F. ソード": "ショウジンの矛",
+      "リカーブボウ": "スタティック・シヴ",
+      "ムダニデカイロッド": "ルーデンエコー",
+      "女神の涙": "セラフ・エンブレイス",
+      "チェインベスト": "フローズンハート",
+      "ネガトロンクローク": "静寂",
+      "ジャイアントベルト": "リデンプション",
+      "へら": "ダーキン"
+    }
+  }
+}
