@@ -1,0 +1,447 @@
+[
+	{
+		"name": "evelynn",
+		"cost": 3,
+		"origin": [
+			"demon"
+		],
+		"class": [
+			"assasin"
+		]
+	}, {
+		"name": "aatrox",
+		"cost": 3,
+		"origin": [
+			"demon"
+		],
+		"class": [
+			"blademaster"
+		]
+	}, {
+		"name": "brand",
+		"cost": 4,
+		"origin": [
+			"demon"
+		],
+		"class": [
+			"elementalist"
+		]
+	}, {
+		"name": "varus",
+		"cost": 2,
+		"origin": [
+			"demon"
+		],
+		"class": [
+			"ranger"
+		]
+	}, {
+		"name": "elise",
+		"cost": 3,
+		"origin": [
+			"demon"
+		],
+		"class": [
+			"shapeshifter"
+		]
+	}, {
+		"name": "swain",
+		"cost": 5,
+		"origin": [
+			"demon",
+			"imperial"
+		],
+		"class": [
+			"shapeshifter"
+		]
+	}, {
+		"name": "morgana",
+		"cost": 3,
+		"origin": [
+			"demon"
+		],
+		"class": [
+			"sorcerer"
+		]
+	}, {
+		"name": "shyvana",
+		"cost": 3,
+		"origin": [
+			"dragon"
+		],
+		"class": [
+			"shapeshifter"
+		]
+	}, {
+		"name": "aurelionsol",
+		"cost": 4,
+		"origin": [
+			"dragon"
+		],
+		"class": [
+			"sorcerer"
+		]
+	}, {
+		"name": "yasuo",
+		"cost": 5,
+		"origin": [
+			"exile"
+		],
+		"class": [
+			"blademaster"
+		]
+	}, {
+		"name": "ashe",
+		"cost": 3,
+		"origin": [
+			"glacial"
+		],
+		"class": [
+			"ranger"
+		]
+	}, {
+		"name": "sejuani",
+		"cost": 4,
+		"origin": [
+			"glacial"
+		],
+		"class": [
+			"knight"
+		]
+	}, {
+		"name": "braum",
+		"cost": 2,
+		"origin": [
+			"glacial"
+		],
+		"class": [
+			"guardian"
+		]
+	}, {
+		"name": "anivia",
+		"cost": 5,
+		"origin": [
+			"glacial"
+		],
+		"class": [
+			"elementalist"
+		]
+	}, {
+		"name": "lissandra",
+		"cost": 2,
+		"origin": [
+			"glacial"
+		],
+		"class": [
+			"elementalist"
+		]
+	}, {
+		"name": "volibear",
+		"cost": 3,
+		"origin": [
+			"glacial"
+		],
+		"class": [
+			"brawler"
+		]
+	}, {
+		"name": "katarina",
+		"cost": 3,
+		"origin": [
+			"imperial"
+		],
+		"class": [
+			"assasin"
+		]
+	}, {
+		"name": "draven",
+		"cost": 4,
+		"origin": [
+			"imperial"
+		],
+		"class": [
+			"blademaster"
+		]
+	}, {
+		"name": "darius",
+		"cost": 1,
+		"origin": [
+			"imperial"
+		],
+		"class": [
+			"knight"
+		]
+	}, {
+		"name": "akali",
+		"cost": 4,
+		"origin": [
+			"ninja"
+		],
+		"class": [
+			"assasin"
+		]
+	}, {
+		"name": "zed",
+		"cost": 2,
+		"origin": [
+			"ninja"
+		],
+		"class": [
+			"assasin"
+		]
+	}, {
+		"name": "fiora",
+		"cost": 1,
+		"origin": [
+			"noble"
+		],
+		"class": [
+			"blademaster"
+		]
+	}, {
+		"name": "leona",
+		"cost": 4,
+		"origin": [
+			"noble"
+		],
+		"class": [
+			"guardian"
+		]
+	}, {
+		"name": "lucian",
+		"cost": 2,
+		"origin": [
+			"noble"
+		],
+		"class": [
+			"gunslinger"
+		]
+	}, {
+		"name": "garen",
+		"cost": 1,
+		"origin": [
+			"noble"
+		],
+		"class": [
+			"knight"
+		]
+	}, {
+		"name": "kayle",
+		"cost": 5,
+		"origin": [
+			"noble"
+		],
+		"class": [
+			"knight"
+		]
+	}, {
+		"name": "vayne",
+		"cost": 1,
+		"origin": [
+			"noble"
+		],
+		"class": [
+			"ranger"
+		]
+	}, {
+		"name": "mordekaiser",
+		"cost": 1,
+		"origin": [
+			"phantom"
+		],
+		"class": [
+			"knight"
+		]
+	}, {
+		"name": "kindred",
+		"cost": 4,
+		"origin": [
+			"phantom"
+		],
+		"class": [
+			"ranger"
+		]
+	}, {
+		"name": "karthus",
+		"cost": 5,
+		"origin": [
+			"phantom"
+		],
+		"class": [
+			"sorcerer"
+		]
+	}, {
+		"name": "pyke",
+		"cost": 2,
+		"origin": [
+			"pirate"
+		],
+		"class": [
+			""
+		]
+	}, {
+		"name": "gangplank",
+		"cost": 3,
+		"origin": [
+			"pirate"
+		],
+		"class": [
+			"blademaster",
+			"gunslinger"
+		]
+	}, {
+		"name": "graves",
+		"cost": 1,
+		"origin": [
+			"pirate"
+		],
+		"class": [
+			"gunslinger"
+		]
+	}, {
+		"name": "missfortune",
+		"cost": 5,
+		"origin": [
+			"pirate"
+		],
+		"class": [
+			"gunslinger"
+		]
+	}, {
+		"name": "blitzcrank",
+		"cost": 2,
+		"origin": [
+			"robot"
+		],
+		"class": [
+			"brawler"
+		]
+	}, {
+		"name": "khazix",
+		"cost": 1,
+		"origin": [
+			"void"
+		],
+		"class": [
+			"assasin"
+		]
+	}, {
+		"name": "chogath",
+		"cost": 4,
+		"origin": [
+			"void"
+		],
+		"class": [
+			"brawler"
+		]
+	}, {
+		"name": "reksai",
+		"cost": 2,
+		"origin": [
+			"void"
+		],
+		"class": [
+			"brawler"
+		]
+	}, {
+		"name": "kassadin",
+		"cost": 1,
+		"origin": [
+			"void"
+		],
+		"class": [
+			"sorcerer"
+		]
+	}, {
+		"name": "rengar",
+		"cost": 3,
+		"origin": [
+			"wild"
+		],
+		"class": [
+			"assasin"
+		]
+	}, {
+		"name": "warwick",
+		"cost": 1,
+		"origin": [
+			"wild"
+		],
+		"class": [
+			"brawler"
+		]
+	}, {
+		"name": "nidalee",
+		"cost": 1,
+		"origin": [
+			"wild"
+		],
+		"class": [
+			"shapeshifter"
+		]
+	}, {
+		"name": "gnar",
+		"cost": 0,
+		"origin": [
+			"yordle",
+			"wild"
+		],
+		"class": [
+			"shapeshifter"
+		]
+	}, {
+		"name": "ahri",
+		"cost": 2,
+		"origin": [
+			"wild"
+		],
+		"class": [
+			"sorcerer"
+		]
+	}, {
+		"name": "kennen",
+		"cost": 3,
+		"origin": [
+			"yordle"
+		],
+		"class": [
+			"elementalist"
+		]
+	}, {
+		"name": "tristana",
+		"cost": 1,
+		"origin": [
+			"yordle"
+		],
+		"class": [
+			"gunslinger"
+		]
+	}, {
+		"name": "poppy",
+		"cost": 3,
+		"origin": [
+			"yordle"
+		],
+		"class": [
+			"knight"
+		]
+	}, {
+		"name": "veigar",
+		"cost": 3,
+		"origin": [
+			"yordle"
+		],
+		"class": [
+			"sorcerer"
+		]
+	}, {
+		"name": "lulu",
+		"cost": 2,
+		"origin": [
+			"yordle"
+		],
+		"class": [
+			"sorcerer"
+		]
+	}
+]
