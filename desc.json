@@ -16,14 +16,14 @@
     "Sword of the Divine": "Every 1s gain a 5% chance to gain 100% Critical Strike.",
     "Youmuu's Ghostblade": "Wearer is also an Assassin.",
     "The Bloodthirster": "Attacks heal for 50% of damage.",
-    "Zeke's Herald": "Adjacent allies gain 10% Attack Speed.",
+    "Zeke's Herald": "Allies 2 spaces to the left and right gain 10% Attack Speed.",
 
     "Guinsoo's Rageblade": "Attacks give 3% Attack Speed. Stacks infinitely.",
     "Rabadon's Deathcap": "Wearer's Abillity Damage increased by 50%.",
     "Yuumi": "Wearer is also a Sorcerer.",
     "Morellonomicon": "Spells burn 2.5% of the enemy max HP per second.",
     "Ionic Spark": "Whenever an enemy casts a spell they take 200 damage.",
-    "Locket of the Iron Solari": "On start of combat, adjacent allies get 200 shield.",
+    "Locket of the Iron Solari": "On start of combat, allies 2 spaces to the left and right get 200 shield.",
     "Luden's Echo": "Deal 200 splash damage on abillity hit.",
 
     "Statikk Shiv": "Every 3rd attack deals 100 splash magical damage.",
@@ -39,7 +39,6 @@
     "Red Buff": "Attacks burn for 2.5% max HP and disable healing.",
     "Knight's Vow": "Wearer is also a Knight.",
 
-    "Zeke's Herald": "Adjacent allies gain +10% Attack Speed.",
     "Redemption": "On death heal all nearby allies for 1000 HP.",
     "Zephyr": "On start of combat banish an enemy.",
     "Warmog's Armor": "Regenerate 3% max Health per second.",
@@ -71,14 +70,14 @@
     "Sword of the Divine": "毎秒5%の確率でクリティカル攻撃を出す",
     "Youmuu's Ghostblade": "装備者にアサシンが追加される",
     "The Bloodthirster": "50%のライフスティール",
-    "Zeke's Herald": "周りにいる味方の攻撃速度が上昇する",
+    "Zeke's Herald": "左右にいる味方の攻撃速度が上昇する",
 
     "Guinsoo's Rageblade": "通常攻撃する度に攻撃速度が3%上昇する。この効果に限りはない。",
     "Rabadon's Deathcap": "魔力が50%増える",
     "Yuumi": "装備者にソーサラーが追加される",
     "Morellonomicon": "魔法攻撃を与えると毎秒敵の最大HPの2.5％を燃やします。",
     "Ionic Spark": "敵が魔法攻撃を行う度に、200のダメージを返す。",
-    "Locket of the Iron Solari": "戦闘開始時、周りにいる味方に200のシールドを与える。",
+    "Locket of the Iron Solari": "戦闘開始時、左右にいる味方に200のシールドを与える。",
     "Luden's Echo": "魔法攻撃を行うと200の拡散ダメージを追加で与える。",
 
     "Statikk Shiv": "3度目の攻撃の度に100の範囲魔法ダメージを与える。",

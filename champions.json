@@ -443,5 +443,14 @@
 		"class": [
 			"sorcerer"
 		]
+	}, {
+		"name": "Twisted Fate",
+		"cost": 2,
+		"origin": [
+			"pirate"
+		],
+		"class": [
+			"sorcerer"
+		]
 	}
 ]
